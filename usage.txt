@@ -1,0 +1,146 @@
+NAVKARAN CYBERSEC — QUIZ & LEARNING ACADEMY
+USAGE GUIDE
+
+1. DIRECT BROWSER METHOD
+------------------------
+Open the project folder and double-click:
+
+index.html
+
+The application will open in your default browser.
+
+Works on:
+- Windows
+- Linux
+- macOS
+
+
+2. WINDOWS — COMMAND PROMPT (CMD)
+---------------------------------
+Open CMD inside the project folder:
+
+cd path\to\navkaran-cybersec-quiz-academy
+
+Start a local server:
+
+python -m http.server 8000
+
+Open in browser:
+
+http://localhost:8000
+
+
+3. WINDOWS — POWERSHELL
+-----------------------
+Open PowerShell inside the project folder:
+
+cd "path\to\navkaran-cybersec-quiz-academy"
+
+Run:
+
+python -m http.server 8000
+
+Then open:
+
+http://localhost:8000
+
+
+4. LINUX — TERMINAL
+-------------------
+Open Terminal:
+
+cd /path/to/navkaran-cybersec-quiz-academy
+
+Run:
+
+python3 -m http.server 8000
+
+Open:
+
+http://localhost:8000
+
+
+5. macOS — TERMINAL
+-------------------
+Open Terminal:
+
+cd /path/to/navkaran-cybersec-quiz-academy
+
+Run:
+
+python3 -m http.server 8000
+
+Open:
+
+http://localhost:8000
+
+
+6. STOP THE SERVER
+------------------
+In the terminal/CMD/PowerShell window press:
+
+CTRL + C
+
+
+7. GITHUB METHOD
+----------------
+Clone the repository:
+
+git clone YOUR_REPOSITORY_URL
+
+Enter the folder:
+
+cd navkaran-cybersec-quiz-academy
+
+Then open index.html in your browser.
+
+
+8. VS CODE METHOD
+-----------------
+Open the project folder in Visual Studio Code.
+
+Open:
+
+index.html
+
+Then either:
+- Double-click/open index.html in the browser
+OR
+- Use a local development server/Live Server extension.
+
+
+9. IMPORTANT
+------------
+This project is a static HTML/CSS/JavaScript application.
+
+No:
+- Backend server is required
+- Database is required
+- API is required
+- Node.js is required for basic usage
+
+User progress is stored locally in the browser using:
+
+navkaran_cybersec_progress
+
+
+10. RECOMMENDED
+--------------
+For normal use:
+Open index.html directly.
+
+For local development/testing:
+python -m http.server 8000
+
+Then visit:
+
+http://localhost:8000
+
+
+PROJECT:
+NAVKARAN CYBERSEC — Quiz & Learning Academy
+
+#Cybersecurity
+#EthicalHacking
+#PenetrationTesting
+#CybersecurityEducation
